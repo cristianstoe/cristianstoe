@@ -1,6 +1,6 @@
-### Hi there 👋
+### Olá! 👋
 
-Estudante de Sistemas de Informação na Unifei e apaixonado por Desenvolvimento Web.
+Sou estudante de Sistemas de Informação na Unifei e apaixonado por Desenvolvimento Web.
 Moro em Itajubá-MG, mas já passei por Brasilia (maior parte da minha vida) e São José dos Campos-SP.
 
 Atualmente focado em estudar as maiores e melhores tecnologias do mercado e trazer soluções para o cotidiano! 😄
@@ -20,12 +20,9 @@ Atualmente focado em estudar as maiores e melhores tecnologias do mercado e traz
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://thekenyandev.com/static/nodejs-ea6d8fe57ed02c773ad10ca3003b2451.png" alt="nodejs logo" width="24">](https://nodejs.org/en/) | [<img src="https://www.kindpng.com/picc/m/4-42035_photoshop-logo-png-adobe-illustrator-white-icon-transparent.png" alt="photoshop logo" width="24">](https://www.adobe.com/br/products/photoshop.html?gclid=Cj0KCQjw-uH6BRDQARIsAI3I-Ue5uHxRPXSjEg7YF25u0HV4f_wHz88X1BF5J_hJ_FSI2gzCjommp-saAg7nEALw_wcB&sdid=KQPOM&mv=search&ef_id=Cj0KCQjw-uH6BRDQARIsAI3I-Ue5uHxRPXSjEg7YF25u0HV4f_wHz88X1BF5J_hJ_FSI2gzCjommp-saAg7nEALw_wcB:G:s&s_kwcid=AL!3085!3!442396627382!e!!g!!photoshop!188192502!10077842982)| Ubuntu | entre outras... | 
 |---|---|---|---|---|---|
 
-### Other Accounts 📫
+### Outras contas! 📫
 
-Você pode entrar em contato comigo por outras redes!
+Outras redes sociais!
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/cristianstoe) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/cristianstoe/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/delta456)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/deviant_art.jpg" alt="dev logo" width="24">](https://www.deviantart.com/delta2318) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Delta2315) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/10053063/delta231) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Delta456) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/Delta231)
-|---|---|---|---|---|---|---|---|
-
----
-⭐️ From [Delta456](https://github.com/Delta456)
+| [<img src="https://image.flaticon.com/icons/png/512/61/61109.png" alt="dev logo" width="24">](https://www.linkedin.com/in/cristiansto/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/cristianstoe) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/cristianstoe/) | [<img src="https://cdn-images-1.medium.com/max/1200/1*TkXVfLTwsHdwpUEjGzdi9w.jpeg" alt="dev logo" width="24">](https://app.rocketseat.com.br/me/cristianstoe)
+|---|---|---|---|
