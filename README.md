@@ -26,3 +26,7 @@ Outras redes sociais!
 
 | [<img src="https://image.flaticon.com/icons/png/512/61/61109.png" alt="dev logo" width="24">](https://www.linkedin.com/in/cristiansto/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/cristianstoe) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/cristianstoe/) | [<img src="https://cdn-images-1.medium.com/max/1200/1*TkXVfLTwsHdwpUEjGzdi9w.jpeg" alt="dev logo" width="24">](https://app.rocketseat.com.br/me/cristianstoe)
 |---|---|---|---|
+
+<a href="https://github.com/cristianstoe/cristianstoe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianstoe&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
