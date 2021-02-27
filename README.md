@@ -4,7 +4,7 @@ Sou estudante de Sistemas de Informação na Unifei e apaixonado por Desenvolvim
 Moro em Itajubá-MG, mas já passei por Brasilia (maior parte da minha vida) e São José dos Campos-SP.
 
 Atualmente focado em estudar as maiores e melhores tecnologias do mercado e trazer soluções para o cotidiano! 😄
-Gerente de vendas na Byron.Solutions - Back-End Developer 💻
+Acessor de vendas na Byron.Solutions - Back-End Developer 💻
 
 ### Linguagens de programação 🌐
 
