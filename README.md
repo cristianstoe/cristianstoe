@@ -1,5 +1,5 @@
 <h2> Hi, I'm Cristian Stoenica! <img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="50"></h2>
-Information Systems student at Unifei and passionate about Web Development. I live in Itajubá-MG, but I have already been to Brasília (most of my life) and São José dos Campos-SP.
+Information Systems student at Unifei and passionate about Backend Development. I live in Itajubá-MG, but I have already been to Brasília (most of my life) and São José dos Campos-SP.
 </br>Currently focused on studying the biggest technologies inovations in the market and how they're bringing solutions to day-to-day life!
 <img align='right' src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230">
 <p><em>Information Systems student at <a href="https://unifei.edu.br/">Federal University of Itajubá</a></br>Backend Developer and sales advisor at <a href="https://byronsolutions.com/">byron.solutions</a> <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> 
