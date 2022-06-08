@@ -17,7 +17,7 @@ const cristianstoe = {
   code: [Javascript, Typescript, HTML, CSS],
   tools: [Node.js, TypeORM, PostgreSQL, Docker, Git ],
   agile frameworks: [Scrum, Kanban, OKR]
- challenge: "Volunteering at Byron Solutions / Bootcamp "Ignite" by Rocketseat "
+ challenge: "Bootcamp "Ignite" by Rocketseat"
 }
 ```
 
